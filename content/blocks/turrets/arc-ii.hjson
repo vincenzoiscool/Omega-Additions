@@ -1,7 +1,7 @@
 requirements: [
-copper/85
-lead/60
-silicon/30
+copper/160
+lead/95
+silicon/90
 ]
 name: "Arc Mk-2"
 description: '''
